@@ -1,3 +1,5 @@
+Minha mudança
+
 ## Run Before mvn install
 
 
